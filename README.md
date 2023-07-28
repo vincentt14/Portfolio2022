@@ -1,7 +1,4 @@
-# Hello There!
+# Hello There! This is my 2nd Portfolio
+https://portfolio2022-alpha-five.vercel.app/
 
-I create my Portfolio Website using React.js, Typescript and Tailwind CSS
-
-feel free to visit my website https://vincentt14.github.io/
-
-`monthly update`
+I create this Website using React.js, Typescript and Tailwind CSS
